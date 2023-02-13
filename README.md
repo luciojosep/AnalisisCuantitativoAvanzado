@@ -6,9 +6,9 @@ Material de apoyo para algunos temas presentados en la materia Análisis Cuantit
 
 # Ejercicios
 
-- [Ejericio 1 - EDA y RL con Sklearn](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_1.ipynb)
-- [Ejericio 2 - EDA y RL con Statsmodel](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_2.ipynb)
-- [Ejericio 3 - R2](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_3.ipynb)
+- [Ejercicio 1 - EDA y RL con Sklearn](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_1.ipynb)
+- [Ejercicio 2 - EDA y RL con Statsmodel](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_2.ipynb)
+- [Ejercicio 3 - R2](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_3.ipynb)
 - [Ejercicio 4 - Clasificación](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_4.ipynb)
 
 # Bibliografía
