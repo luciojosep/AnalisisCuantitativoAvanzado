@@ -10,6 +10,7 @@ Material de apoyo para algunos temas presentados en la materia Análisis Cuantit
 - [Ejercicio 2 - EDA y RL con Statsmodel](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_2.ipynb)
 - [Ejercicio 3 - R2](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_3.ipynb)
 - [Ejercicio 4 - Clasificación](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_4.ipynb)
+- [Ejercicio 5 - Series de Tiempo](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_5.ipynb)
 
 # Bibliografía
 
