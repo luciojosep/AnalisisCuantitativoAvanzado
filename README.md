@@ -12,12 +12,16 @@ Material de apoyo para algunos temas presentados en la materia Análisis Cuantit
 - [Ejercicio 4 - Clasificación](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_4.ipynb)
 - [Ejercicio 5 - Series de Tiempo](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_5.ipynb)
 
-# Slides
+# Slides / Clases
 
-- [Práctica Regresión](https://docs.google.com/presentation/d/1qg-POCaZs8epSwMyfCr7crkH80G5vb8_-8AXUgbiMDI)
-- [Práctica Clasificación](https://docs.google.com/presentation/d/1S605bTm5cTk7g-t83Bs_fm5DXRv4wJSsc35papEJ6TA)
-- [Teoría Series de Tiempo](https://docs.google.com/presentation/d/12CqGPCtwGxAlzP1IvnhbcjGCGZx-B22GDkl2xU7fIzY)
-- [Práctica Series de Tiempo](https://docs.google.com/presentation/d/1iPXyZa5-lcV9K9YcpFZgR6WylyNJkzVeJ7UChaGAHDU)
+- [Clase 1 - Intro y Teoría Regresión Lineal](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Clase_1_Regresi%C3%B3n_lineal.ipynb)
+- [Clase 2 - Teoría Regresión Logística]()
+- [Clase 3 - Práctica Regresión Lineal](https://docs.google.com/presentation/d/1qg-POCaZs8epSwMyfCr7crkH80G5vb8_-8AXUgbiMDI)
+- [Clase 4 - Práctica Regresión Logística](https://docs.google.com/presentation/d/1S605bTm5cTk7g-t83Bs_fm5DXRv4wJSsc35papEJ6TA)
+- [Clase 5 - Intervalos de Confianza]()
+- [Clase 6 - Test de Hipótesis]()
+- [Clase 7 - Teoría Series de Tiempo](https://docs.google.com/presentation/d/12CqGPCtwGxAlzP1IvnhbcjGCGZx-B22GDkl2xU7fIzY)
+- [Clase 8 - Práctica Series de Tiempo](https://docs.google.com/presentation/d/1iPXyZa5-lcV9K9YcpFZgR6WylyNJkzVeJ7UChaGAHDU)
 
 # Bibliografía
 
