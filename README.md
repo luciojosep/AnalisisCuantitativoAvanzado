@@ -11,6 +11,8 @@ Material de apoyo para algunos temas presentados en la materia Análisis Cuantit
 - [Ejercicio 3 - R2](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_3.ipynb)
 - [Ejercicio 4 - Clasificación](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_4.ipynb)
 - [Ejercicio 5 - Series de Tiempo](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_5.ipynb)
+- [Ejercicio 6 - Intervalos de Confianza](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_6.ipynb)
+- [Ejercicio 7 - Tests de Hipótesis](https://github.com/LCaravaggio/AnalisisCuantitativoAvanzado/blob/main/Ejercicio_7.ipynb)
 
 # Slides / Clases
 
